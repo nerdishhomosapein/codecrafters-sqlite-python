@@ -1,4 +1,4 @@
-![progress-banner](https://codecrafters.io/landing/images/default_progress_banners/sqlite.png)
+![progress-banner](https://app.codecrafters.io/progress/sqlite/caf788f8-c781-413a-ad61-cb2f63756c48)
 
 This is a starting point for Python solutions to the
 ["Build Your Own SQLite" Challenge](https://codecrafters.io/challenges/sqlite).
